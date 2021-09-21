@@ -12,22 +12,22 @@ _global_script_classes=[ {
 "base": "HBoxContainer",
 "class": "ContributorClass",
 "language": "GDScript",
-"path": "res://addons/github-integration/scripts/ContributorClass.gd"
+"path": "res://source/addons/github-integration/scripts/ContributorClass.gd"
 }, {
-"base": "PanelContainer",
+"base": "Reference",
 "class": "GistItem",
 "language": "GDScript",
-"path": "res://addons/github-integration/scripts/GistItem.gd"
+"path": "res://source/addons/github-integration/scripts/GistItem.gd"
 }, {
-"base": "HBoxContainer",
+"base": "Reference",
 "class": "InvitationItem",
 "language": "GDScript",
-"path": "res://addons/github-integration/scripts/InvitationItem.gd"
+"path": "res://source/addons/github-integration/scripts/InvitationItem.gd"
 }, {
-"base": "PanelContainer",
+"base": "Reference",
 "class": "RepositoryItem",
 "language": "GDScript",
-"path": "res://addons/github-integration/scripts/RepositoryItem.gd"
+"path": "res://source/addons/github-integration/scripts/RepositoryItem.gd"
 } ]
 _global_script_class_icons={
 "ContributorClass": "",
@@ -39,15 +39,15 @@ _global_script_class_icons={
 [application]
 
 config/name="TesteGodot"
-run/main_scene="res://Node2D.tscn"
-config/icon="res://icon.png"
+run/main_scene="res://source/Node2D.tscn"
+config/icon="res://source/icon.png"
 
 [autoload]
 
-PluginSettings="*res://addons/github-integration/scripts/PluginSettings.gd"
-IconLoaderGithub="*res://addons/github-integration/scripts/IconLoaderGithub.gd"
-UserData="*res://addons/github-integration/scripts/user_data.gd"
-RestHandler="*res://addons/github-integration/scenes/RestHandler.tscn"
+PluginSettings="*res://source/addons/github-integration/scripts/PluginSettings.gd"
+IconLoaderGithub="*res://source/addons/github-integration/scripts/IconLoaderGithub.gd"
+UserData="*res://source/addons/github-integration/scripts/user_data.gd"
+RestHandler="*res://source/addons/github-integration/scenes/RestHandler.tscn"
 
 [editor_plugins]
 
@@ -62,4 +62,4 @@ common/enable_pause_aware_picking=true
 quality/driver/driver_name="GLES2"
 vram_compression/import_etc=true
 vram_compression/import_etc2=false
-environment/default_environment="res://default_env.tres"
+environment/default_environment="res://source/default_env.tres"
