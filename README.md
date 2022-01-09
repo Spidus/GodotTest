@@ -1,4 +1,13 @@
-# Nome do produto
+# Inteli - Instituto de Tecnologia e Liderança 
+
+<p align="center">
+<a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
+</p>
+
+#Nome do Projeto
+##Nome do Grupo
+##Integrantes: Goku Sayajin, Saitama One, Ikki de Fenix, Yusuke Urameshi, Roronoa Zoro 
+
 
 📜 Descrição curta sobre o que seu projeto faz.
 
@@ -15,7 +24,7 @@
 
    <img alt="Issues" src="https://img.shields.io/github/issues/devgabrieldejesus/readme-model?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="GitHub license" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+   <img alt="GitHub license" src="https://img.shields.io/github/license/devgabrieldejesus/readme-model?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
   <a href="https://github.com/devgabrieldejesus">
     <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
