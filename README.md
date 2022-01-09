@@ -103,8 +103,6 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 ## 🎓 Referências
 
-1. Faça o _fork_ do projeto (<https://github.com/seuUsuario/nomeDoRepositorio/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
-3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
-4. _Push_ (`git push origin meu-novo-recurso`)
-5. Crie um novo _Pull Request_
+1. <https://github.com/iuricode/readme-template>
+2. <https://github.com/gabrieldejesus/readme-model>
+
