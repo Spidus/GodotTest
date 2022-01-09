@@ -105,4 +105,4 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
 1. <https://github.com/iuricode/readme-template>
 2. <https://github.com/gabrieldejesus/readme-model>
-
+3. <https://creativecommons.org/share-your-work/>
