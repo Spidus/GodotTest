@@ -15,7 +15,7 @@
 
    <img alt="Issues" src="https://img.shields.io/github/issues/devgabrieldejesus/readme-model?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-   <img alt="GitHub license" src="https://img.shields.io/github/license/devgabrieldejesus/readme-model?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+   <img alt="GitHub license" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 
   <a href="https://github.com/devgabrieldejesus">
     <img alt="Follow devgabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=devgabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
