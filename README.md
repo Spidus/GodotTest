@@ -15,7 +15,7 @@
 📜 Descrição curta sobre o que seu projeto faz.
 
 <p align="center">
-<img src="https://i.ibb.co/cksr7Sb/web-preview.png" alt="Gabriel de Jesus" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
 </p>
 
 Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
